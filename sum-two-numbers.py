@@ -3,6 +3,7 @@ def sum_two_numbers(a,b):
     Sums two number and returns the result.
 
     Parameters:
+    -----------
     a (int): the first number
     b (int): the second number
 
